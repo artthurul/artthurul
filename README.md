@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ertuğrul Eren Durak! 👋
 
-<!--
-**artthurul/artthurul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science freshman** at **Bilkent University**, passionate about programming and solving problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Student**: Currently studying **Computer Science** at Bilkent University.
+- 💻 **Languages**: Learning **Java** and exploring **Python**.
+- 🔭 **Interests**: Software development, algorithms, and AI.
+- 🎸 **Hobbies**: Playing guitar, travelling, exploring different cultures.
+- 🌱 **Currently learning**: Java and essential computer science concepts.
+- 👨‍💻 **Working on**: My assignments and projects for **CS101** (check out the [CS101 repository](https://github.com/artthurul/CS101)).
+
+## Get in Touch
+
+- 📫 **Email**: [eren.durak@ug.bilkent.edu.tr](mailto:eren.durak@ug.bilkent.edu.tr)
+- 💻 **GitHub**: [artthurul](https://github.com/artthurul)
