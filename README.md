@@ -1,4 +1,4 @@
-# Hi there, I'm Ertuğrul Eren Durak! 👋
+# Hi there, I'm Ertuğrul Eren! 👋
 
 Welcome to my GitHub profile! I'm a **Computer Science freshman** at **Bilkent University**, passionate about programming and solving problems.
 
